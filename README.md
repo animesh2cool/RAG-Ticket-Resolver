@@ -55,14 +55,3 @@ This project implements an intelligent, multilingual support assistant that:
    - Gemini returns a grounded and actionable solution
 
 ---
-
-## 📁 Project Structure
-
-├── rag_system.py # Main RAG class (MultilingualRAGSystem)
-├── datasets/
-│ ├── rag_ready_english_tickets.csv
-│ ├── rag_ready_french_tickets.csv
-│ ├── rag_ready_combined_tickets.csv
-├── notebook_example.ipynb # Jupyter/Colab interactive test notebook
-├── README.md # Project description (this file)
-├── requirements.txt # All Python dependencies
